@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TranslatorApp</string>
+    <string name="input_text_label">Enter Text</string>
+    <string name="did_you_mean_label">Did you mean?</string>
+</resources>
